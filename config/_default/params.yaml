@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: forest
 day_night: true
 font: ''
 font_size: L
@@ -40,7 +40,7 @@ email: Tuan.Truong@rwth-aachen.de
 contact_links:
   - icon: linkedin
     icon_pack: fab
-    name: DM Me
+    name: Follow me
     link: 'https://www.linkedin.com/in/tuantruong96/'
   # - icon: skype
   #   icon_pack: fab
