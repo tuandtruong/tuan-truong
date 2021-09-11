@@ -8,7 +8,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: tuan.truong@rwth-aachen.de
+    link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/twantruong
@@ -24,7 +24,7 @@ education:
       institution: RWTH Aachen
       year: "2019"
     - course: BSc in Biomedical Engineering
-      instiution: Vietnam National University of Ho Chi Minh City
+      institution: Vietnam National University of Ho Chi Minh City
 email: tuan.truong@rwth-aachen.de
 superuser: true
 highlight_name: true
