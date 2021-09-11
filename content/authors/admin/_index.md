@@ -12,18 +12,22 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/twantruong
+  -icon: linkedin
+   icon_pack: fab
+   link: https://www.linkedin.com/in/tuantruong96/
 organizations:
   - name: RWTH Aachen
     url: ""
-  - name: Bayer AG
 education:
   courses:
     - course: MSc in Biomedical Engineering
       institution: RWTH Aachen
-      year: ""
+      year: "2019"
+    - course: BSc in Biomedical Engineering
+      instiution: Vietnam National University of Ho Chi Minh City
 email: tuan.truong@rwth-aachen.de
 superuser: true
 highlight_name: true
 ---
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

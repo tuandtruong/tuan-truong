@@ -27,6 +27,14 @@ experience:
     date_start: 2019-03-01
     date_end: 2021-07-31
     description: Investigation of diagnostic approaches using Deep Learning in Ophthalmology
+  - title: Summer Research Intern
+    company: Auckland Bioengineering Institute
+    company_url: "https://www.auckland.ac.nz/en/abi.html"
+    company_logo: 
+    location: Auckland, New Zealand
+    date_start: 2018-12-01
+    date_end: 2019-02-28
+    description: Investigation of the Inverse Problem in Electrophysiology
 widget_id: recent-post
 headless: true
 weight: 40
