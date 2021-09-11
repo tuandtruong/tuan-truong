@@ -22,9 +22,10 @@ education:
   courses:
     - course: MSc in Biomedical Engineering
       institution: RWTH Aachen
-      year: "2019"
+      
     - course: BSc in Biomedical Engineering
-      institution: Vietnam National University of Ho Chi Minh City
+      institution: International University - Vietnam National University of Ho Chi Minh City
+      year: "2019"
 email: tuan.truong@rwth-aachen.de
 superuser: true
 highlight_name: true

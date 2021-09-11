@@ -22,7 +22,7 @@ experience:
   - title: Machine Learning Engineer
     company: A2DS
     company_url: "https://a2ds.io/"
-    company_logo: 
+    company_logo: a2ds
     location: Ho Chi Minh City, Vietnam
     date_start: 2019-03-01
     date_end: 2021-07-31
@@ -30,7 +30,7 @@ experience:
   - title: Summer Research Intern
     company: Auckland Bioengineering Institute
     company_url: "https://www.auckland.ac.nz/en/abi.html"
-    company_logo: 
+    company_logo: abi
     location: Auckland, New Zealand
     date_start: 2018-12-01
     date_end: 2019-02-28
