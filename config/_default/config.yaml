@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Tuan Truong # Website name
-baseurl: 'https://tuantruong.de' # Website URL
+baseurl: 'tuantruong.de' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
