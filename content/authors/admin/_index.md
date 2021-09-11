@@ -4,7 +4,7 @@ role: Master Student in Biomedical Engineering
 avatar_filename: avatar.jpg
 bio: My research interests include biomedical research advancing the diagnostic
   and treatment solutions using Deep Learning approach.
-interests: []
+interests: [Medical Image Analysis, Computer Vision, Deep Learning]
 social:
   - icon: envelope
     icon_pack: fas

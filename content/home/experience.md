@@ -25,7 +25,7 @@ experience:
     company_logo: a2ds
     location: Ho Chi Minh City, Vietnam
     date_start: 2019-03-01
-    date_end: 2021-07-31
+    date_end: 2019-07-31
     description: Investigation of diagnostic approaches using Deep Learning in Ophthalmology
   - title: Summer Research Intern
     company: Auckland Bioengineering Institute
