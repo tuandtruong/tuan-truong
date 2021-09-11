@@ -15,6 +15,7 @@ social:
 organizations:
   - name: RWTH Aachen
     url: ""
+  - name: Bayer AG
 education:
   courses:
     - course: MSc in Biomedical Engineering
