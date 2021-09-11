@@ -10,7 +10,7 @@ experience:
     date_start: 2021-03-01
     date_end: ""
     description: |-2
-        Investigation of the transferability of self-supervised features in medical image tasks
+        Investigation of the transferability of self-supervised features in medical imaging tasks
   - title: Student Assistant
     company: Institute of Computer Vision and Imaging - RWTH Aachen
     company_url: "https://www.lfb.rwth-aachen.de/en/"
