@@ -12,9 +12,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/twantruong
-  -icon: linkedin
-   icon_pack: fab
-   link: https://www.linkedin.com/in/tuantruong96/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/tuantruong96/
 organizations:
   - name: RWTH Aachen
     url: ""
