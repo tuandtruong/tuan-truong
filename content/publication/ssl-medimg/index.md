@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "How Transferable Are Self-supervised Features in Medical Image Classification Tasks?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -36,7 +36,7 @@ images, and multiple pathological condition classification in chest X-ray images
 # Summary. An optional shortened abstract.
 summary: In this study, we assess the quality of ImageNet self-supervised pretrained features in four selected medical image classification tasks. We demonstrate that feature extractors which were pretrained using SwAV, SimCLR or DINO consistently yield richer embeddings on the downstream tasks compared to a superviesed pretrained baseline model. Among all self-supervised techniques, DINO outperforms the other methods on the majority of datasets and subtasks. Furthermore, we show that the representations from each individual pretrained model encode complementary information which can be fused to yield even more meaningful features. To that end we propose Dynamic Visual Meta-Embedding (DVME), a model-agnostic meta-embedding approach. Our experiments indicate that DVME outperforms the best single model baseline on numerous tasks. As a model-agnostic approach, DVME is not limited to SwAV, SimCLR or DINO. With slight modifications other models can be combined using DVME to generate enriched representations.
 
-tags: [Transfer Learning, Medical Imaging, Self-supervised Learning]
+tags: []
 
 # Display this page in the Featured widget?
 featured: true
