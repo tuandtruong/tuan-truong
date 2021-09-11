@@ -1,7 +1,7 @@
 ---
 title: Tuan Truong
 role: Master Student in Biomedical Engineering
-avatar_filename: img_1054_cropped.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include biomedical research advancing the diagnostic
   and treatment solutions using Deep Learning approach.
 interests: []
