@@ -5,7 +5,7 @@ author: admin
 widget_id: about-me
 headless: true
 weight: 20
-title: About me
+title: Xin chào!
 design:
   background:
     image: ""

@@ -15,6 +15,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/tuantruong96/
+  - icon: cv
+    icon_pack: fab
+    link: docs/[CV]TruongDinhTuan.pdf
 organizations:
   - name: RWTH Aachen
     url: ""
