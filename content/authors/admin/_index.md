@@ -31,4 +31,6 @@ superuser: true
 highlight_name: true
 ---
 My name is Tuan Truong and I am a Master student in Biomedical Engineering at RWTH Aachen. I am also writing my thesis at the Decision Science for Radiology - Bayer AG. I am interested in biomedical research advancing diagnostic and treatment solutions using Deep Learning approach.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "../docs/CVTruongDinhTuan.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CVTruongDinhTuan.pdf" "newtab" >}}resumé{{< /staticref >}}.
